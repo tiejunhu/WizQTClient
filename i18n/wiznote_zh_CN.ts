@@ -897,25 +897,25 @@
     </message>
     <message>
         <location filename="../src/WizActions.cpp" line="94"/>
-        <location filename="../src/WizEditorToolBar.cpp" line="2062"/>
+        <location filename="../src/WizEditorToolBar.cpp" line="2095"/>
         <source>Cut</source>
         <translation>剪切</translation>
     </message>
     <message>
         <location filename="../src/WizActions.cpp" line="95"/>
-        <location filename="../src/WizEditorToolBar.cpp" line="2063"/>
-        <location filename="../src/WizEditorToolBar.cpp" line="2149"/>
+        <location filename="../src/WizEditorToolBar.cpp" line="2096"/>
+        <location filename="../src/WizEditorToolBar.cpp" line="2182"/>
         <source>Copy</source>
         <translation>拷贝</translation>
     </message>
     <message>
         <location filename="../src/WizActions.cpp" line="96"/>
-        <location filename="../src/WizEditorToolBar.cpp" line="2064"/>
+        <location filename="../src/WizEditorToolBar.cpp" line="2097"/>
         <source>Paste</source>
         <translation>粘贴</translation>
     </message>
     <message>
-        <location filename="../src/WizEditorToolBar.cpp" line="2059"/>
+        <location filename="../src/WizEditorToolBar.cpp" line="2092"/>
         <source>Use &quot;Google&quot; search</source>
         <translation>使用 “Google&quot; 搜索</translation>
     </message>
@@ -1111,22 +1111,22 @@
         <translation>雅痞-简</translation>
     </message>
     <message>
-        <location filename="../src/WizEditorToolBar.cpp" line="2060"/>
+        <location filename="../src/WizEditorToolBar.cpp" line="2093"/>
         <source>Use &quot;Baidu&quot; search</source>
         <translation>使用 &quot;百度&quot; 搜索</translation>
     </message>
     <message>
-        <location filename="../src/WizEditorToolBar.cpp" line="2065"/>
+        <location filename="../src/WizEditorToolBar.cpp" line="2098"/>
         <source>Paste plain text</source>
         <translation>粘贴为纯文本</translation>
     </message>
     <message>
-        <location filename="../src/WizEditorToolBar.cpp" line="2066"/>
+        <location filename="../src/WizEditorToolBar.cpp" line="2099"/>
         <source>Remove link</source>
         <translation>删除链接</translation>
     </message>
     <message>
-        <location filename="../src/WizEditorToolBar.cpp" line="2152"/>
+        <location filename="../src/WizEditorToolBar.cpp" line="2185"/>
         <source>Unselect</source>
         <translation>取消选择</translation>
     </message>
@@ -2461,38 +2461,32 @@ Password hint: %1</source>
     <message>
         <location filename="../src/WizCategoryView.cpp" line="4796"/>
         <source>Created since Yesterday</source>
-        <translatorcomment>两天内创建</translatorcomment>
-        <translation></translation>
+        <translation>两天内创建</translation>
     </message>
     <message>
         <location filename="../src/WizCategoryView.cpp" line="4797"/>
         <source>Created since the day before yesterday</source>
-        <translatorcomment>三天内创建</translatorcomment>
-        <translation></translation>
+        <translation>三天内创建</translation>
     </message>
     <message>
         <location filename="../src/WizCategoryView.cpp" line="4807"/>
         <source>Modified since Yesterday</source>
-        <translatorcomment>两天内修改</translatorcomment>
-        <translation></translation>
+        <translation>两天内修改</translation>
     </message>
     <message>
         <location filename="../src/WizCategoryView.cpp" line="4808"/>
         <source>Modified since the day before yesterday</source>
-        <translatorcomment>三天内修改</translatorcomment>
-        <translation></translation>
+        <translation>三天内修改</translation>
     </message>
     <message>
         <location filename="../src/WizCategoryView.cpp" line="4818"/>
         <source>Accessed since Yesterday</source>
-        <translatorcomment>两天内访问</translatorcomment>
-        <translation></translation>
+        <translation>两天内访问</translation>
     </message>
     <message>
         <location filename="../src/WizCategoryView.cpp" line="4819"/>
         <source>Accessed since the day before yesterday</source>
-        <translatorcomment>三天内访问</translatorcomment>
-        <translation></translation>
+        <translation>三天内访问</translation>
     </message>
     <message>
         <location filename="../src/WizCategoryView.cpp" line="3221"/>
@@ -3436,28 +3430,28 @@ Go to create a note</source>
         <translation>回到文本编辑</translation>
     </message>
     <message>
-        <location filename="../src/WizEditorToolBar.cpp" line="2376"/>
-        <location filename="../src/WizEditorToolBar.cpp" line="2379"/>
+        <location filename="../src/WizEditorToolBar.cpp" line="2409"/>
+        <location filename="../src/WizEditorToolBar.cpp" line="2412"/>
         <source>show more colors...</source>
         <translation>显示更多颜色...</translation>
     </message>
     <message>
-        <location filename="../src/WizEditorToolBar.cpp" line="2902"/>
+        <location filename="../src/WizEditorToolBar.cpp" line="2935"/>
         <source>More tool items</source>
         <translation>更多工具</translation>
     </message>
     <message>
-        <location filename="../src/WizEditorToolBar.cpp" line="2902"/>
+        <location filename="../src/WizEditorToolBar.cpp" line="2935"/>
         <source>Use to show or hide extra tool items.</source>
         <translation>可以显示或收起更多编辑工具。</translation>
     </message>
     <message>
-        <location filename="../src/WizEditorToolBar.cpp" line="3028"/>
+        <location filename="../src/WizEditorToolBar.cpp" line="3061"/>
         <source>Save as...</source>
         <translation>另存为...</translation>
     </message>
     <message>
-        <location filename="../src/WizEditorToolBar.cpp" line="3029"/>
+        <location filename="../src/WizEditorToolBar.cpp" line="3062"/>
         <source>Image Files (*.%1)</source>
         <translation>图片文件 (*.%1)</translation>
     </message>
