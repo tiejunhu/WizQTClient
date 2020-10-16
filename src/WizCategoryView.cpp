@@ -4545,7 +4545,7 @@ void WizCategoryView::saveShortcutState()
         {
             WizCategoryViewShortcutItem *pItem = dynamic_cast<WizCategoryViewShortcutItem*>(pShortcutRoot->child(i));
             if (!pItem)
-                return;
+                break;
             //
             switch (pItem->shortcutType())
             {

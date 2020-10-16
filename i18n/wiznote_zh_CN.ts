@@ -2470,38 +2470,32 @@ Password hint: %1</source>
     <message>
         <location filename="../src/WizCategoryView.cpp" line="4833"/>
         <source>Created since Yesterday</source>
-        <translatorcomment>两天内创建</translatorcomment>
-        <translation></translation>
+        <translation>两天内创建</translation>
     </message>
     <message>
         <location filename="../src/WizCategoryView.cpp" line="4834"/>
         <source>Created since the day before yesterday</source>
-        <translatorcomment>三天内创建</translatorcomment>
-        <translation></translation>
+        <translation>三天内创建</translation>
     </message>
     <message>
         <location filename="../src/WizCategoryView.cpp" line="4844"/>
         <source>Modified since Yesterday</source>
-        <translatorcomment>两天内修改</translatorcomment>
-        <translation></translation>
+        <translation>两天内修改</translation>
     </message>
     <message>
         <location filename="../src/WizCategoryView.cpp" line="4845"/>
         <source>Modified since the day before yesterday</source>
-        <translatorcomment>三天内修改</translatorcomment>
-        <translation></translation>
+        <translation>三天内修改</translation>
     </message>
     <message>
         <location filename="../src/WizCategoryView.cpp" line="4855"/>
         <source>Accessed since Yesterday</source>
-        <translatorcomment>两天内访问</translatorcomment>
-        <translation></translation>
+        <translation>两天内访问</translation>
     </message>
     <message>
         <location filename="../src/WizCategoryView.cpp" line="4856"/>
         <source>Accessed since the day before yesterday</source>
-        <translatorcomment>三天内访问</translatorcomment>
-        <translation></translation>
+        <translation>三天内访问</translation>
     </message>
     <message>
         <location filename="../src/WizCategoryView.cpp" line="3258"/>

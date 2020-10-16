@@ -374,8 +374,9 @@ void CWizNoteStyle::drawPrimitive(PrimitiveElement pe, const QStyleOption *opt, 
         {
             if (const WizCategoryBaseView *view = dynamic_cast<const WizCategoryBaseView *>(w))
             {
-                if (!view->isCursorEntered())
-                    return;
+                // Do not need the cursor in CategoryView to show expand indicator
+                // if (!view->isCursorEntered())
+                //    return;
 
                 if (opt->state & QStyle::State_Children) {
                     bool bExpanded = (opt->state & QStyle::State_Open) ? true : false;
